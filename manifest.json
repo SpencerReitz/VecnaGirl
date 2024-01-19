@@ -1,7 +1,7 @@
 {
     "name": "VecnaGirl",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/SpencerReitz/VecnaGirl",
     "description": "Replaces the little girl sound with Stranger Things sounds",
     "dependencies": [
       "BepInEx-BepInExPack-5.4.2100",
